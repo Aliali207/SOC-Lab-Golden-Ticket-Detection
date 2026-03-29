@@ -12,5 +12,6 @@ Tools Used : Splunk , Sysmon , Mimikatz
 
 <img width="1275" height="901" alt="2026-03-28 11_00_17-windows-server  Running  - Oracle VirtualBox" src="https://github.com/user-attachments/assets/3fccc057-b01c-441f-bcc2-8f4577be0820" />
 ensure connecting from windows server to Splunk 
-<img width="1280" height="1003" alt="2026-03-28 11_32_47-" src="https://github.com/user-attachments/assets/28866fe0-15f0-41b7-9649-cf769c43126a" />
+<img width="1114" height="960" alt="mimikatz-result" src="https://github.com/user-attachments/assets/ab7bcc46-a064-4587-8158-9e33c45f54fc" />
 execute attack locally on domain controller to simulate credential dumping phase after getting access priviliges , using mimikatz to extract krbtgt account's sensitive data 
+<img width="1920" height="942" alt="2026-03-29 16_55_04-kali-linux-2025 4-virtualbox-amd64 ()  Running  - Oracle VirtualBox" src="https://github.com/user-attachments/assets/1c8050fb-7f98-4e62-bf12-754e299d0744" />
